@@ -1,0 +1,183 @@
+2021-05-31 14:34:04.7352|INFO|_5paisaAPI.LogRunner|
+WebSocket: reuquestBody:{"Method":"MarketFeedV3","Operation":"Subscribe","ClientCode":"56565401","MarketFeedData":[{"Exch":"N","ExchType":"C","ScripCode":1660}]}
+#*****************#
+2021-05-31 14:34:24.3427|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":206,"TotalQty":57094478,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30874,"BidQty":231,"BidRate":217.35,"OffQty":20541,"OffRate":217.4,"TBidQ":3971286,"TOffQ":6135402,"TickDt":"\/Date(1622451874000)\/"}]
+#*****************#
+2021-05-31 14:34:24.9105|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":805,"TotalQty":57095283,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30875,"BidQty":59,"BidRate":217.3,"OffQty":20154,"OffRate":217.4,"TBidQ":3970934,"TOffQ":6134422,"TickDt":"\/Date(1622451875000)\/"}]
+#*****************#
+2021-05-31 14:34:25.9080|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.25,"LastQty":311,"TotalQty":57095594,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30877,"BidQty":200,"BidRate":217.3,"OffQty":20094,"OffRate":217.4,"TBidQ":3969500,"TOffQ":6136542,"TickDt":"\/Date(1622451877000)\/"}]
+#*****************#
+2021-05-31 14:34:26.9135|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":98,"TotalQty":57095692,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30878,"BidQty":133,"BidRate":217.3,"OffQty":20113,"OffRate":217.4,"TBidQ":3969493,"TOffQ":6136961,"TickDt":"\/Date(1622451878000)\/"}]
+#*****************#
+2021-05-31 14:34:27.3150|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":11,"TotalQty":57095703,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30878,"BidQty":133,"BidRate":217.3,"OffQty":23102,"OffRate":217.4,"TBidQ":3969533,"TOffQ":6142964,"TickDt":"\/Date(1622451878000)\/"}]
+#*****************#
+2021-05-31 14:34:28.3108|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":1871,"TotalQty":57097574,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30879,"BidQty":6,"BidRate":217.35,"OffQty":21854,"OffRate":217.4,"TBidQ":3969353,"TOffQ":6139768,"TickDt":"\/Date(1622451879000)\/"}]
+#*****************#
+2021-05-31 14:34:29.7179|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":3215,"TotalQty":57100789,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30880,"BidQty":8795,"BidRate":217.25,"OffQty":165,"OffRate":217.3,"TBidQ":3972589,"TOffQ":6143667,"TickDt":"\/Date(1622451880000)\/"}]
+#*****************#
+2021-05-31 14:34:30.7154|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":1218,"TotalQty":57102007,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30882,"BidQty":187,"BidRate":217.3,"OffQty":30887,"OffRate":217.4,"TBidQ":3973213,"TOffQ":6143569,"TickDt":"\/Date(1622451882000)\/"}]
+#*****************#
+2021-05-31 14:34:31.7216|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":58,"TotalQty":57102065,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30882,"BidQty":7793,"BidRate":217.25,"OffQty":500,"OffRate":217.35,"TBidQ":3974812,"TOffQ":6146862,"TickDt":"\/Date(1622451882000)\/"}]
+#*****************#
+2021-05-31 14:34:32.7213|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":1729,"TotalQty":57103794,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30883,"BidQty":238,"BidRate":217.3,"OffQty":27849,"OffRate":217.4,"TBidQ":3976542,"TOffQ":6144263,"TickDt":"\/Date(1622451883000)\/"}]
+#*****************#
+2021-05-31 14:34:33.7250|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.25,"LastQty":1038,"TotalQty":57104832,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30884,"BidQty":200,"BidRate":217.3,"OffQty":27784,"OffRate":217.4,"TBidQ":3974973,"TOffQ":6146525,"TickDt":"\/Date(1622451884000)\/"}]
+#*****************#
+2021-05-31 14:34:34.9264|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.25,"LastQty":655,"TotalQty":57105487,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30886,"BidQty":200,"BidRate":217.3,"OffQty":27426,"OffRate":217.4,"TBidQ":3975238,"TOffQ":6146064,"TickDt":"\/Date(1622451886000)\/"}]
+#*****************#
+2021-05-31 14:34:35.3283|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":103,"TotalQty":57105590,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30886,"BidQty":200,"BidRate":217.3,"OffQty":27323,"OffRate":217.4,"TBidQ":3975238,"TOffQ":6145961,"TickDt":"\/Date(1622451886000)\/"}]
+#*****************#
+2021-05-31 14:34:36.3223|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.25,"LastQty":336,"TotalQty":57105926,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30887,"BidQty":200,"BidRate":217.3,"OffQty":26661,"OffRate":217.4,"TBidQ":3975794,"TOffQ":6140384,"TickDt":"\/Date(1622451887000)\/"}]
+#*****************#
+2021-05-31 14:34:37.3304|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":149,"TotalQty":57106075,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30888,"BidQty":166,"BidRate":217.3,"OffQty":200,"OffRate":217.35,"TBidQ":3975549,"TOffQ":6140718,"TickDt":"\/Date(1622451888000)\/"}]
+#*****************#
+2021-05-31 14:34:38.3263|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":130,"TotalQty":57106205,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30889,"BidQty":114,"BidRate":217.3,"OffQty":122,"OffRate":217.35,"TBidQ":3975493,"TOffQ":6140640,"TickDt":"\/Date(1622451889000)\/"}]
+#*****************#
+2021-05-31 14:34:39.5140|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":204,"TotalQty":57106409,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30890,"BidQty":1347,"BidRate":217.3,"OffQty":155,"OffRate":217.35,"TBidQ":3976415,"TOffQ":6140219,"TickDt":"\/Date(1622451890000)\/"}]
+#*****************#
+2021-05-31 14:34:40.5358|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":227,"TotalQty":57106636,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30891,"BidQty":38,"BidRate":217.35,"OffQty":21450,"OffRate":217.4,"TBidQ":3979399,"TOffQ":6141942,"TickDt":"\/Date(1622451891000)\/"}]
+#*****************#
+2021-05-31 14:34:41.5310|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":117,"TotalQty":57106753,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30892,"BidQty":23,"BidRate":217.35,"OffQty":21991,"OffRate":217.4,"TBidQ":3979243,"TOffQ":6142518,"TickDt":"\/Date(1622451892000)\/"}]
+#*****************#
+2021-05-31 14:34:42.7670|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":146,"TotalQty":57106899,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30894,"BidQty":28,"BidRate":217.35,"OffQty":22026,"OffRate":217.4,"TBidQ":3981731,"TOffQ":6138134,"TickDt":"\/Date(1622451894000)\/"}]
+#*****************#
+2021-05-31 14:34:43.5410|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":134,"TotalQty":57107033,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30894,"BidQty":316,"BidRate":217.3,"OffQty":22007,"OffRate":217.4,"TBidQ":3981539,"TOffQ":6140482,"TickDt":"\/Date(1622451894000)\/"}]
+#*****************#
+2021-05-31 14:34:44.5330|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":286,"TotalQty":57107319,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30895,"BidQty":50,"BidRate":217.35,"OffQty":22113,"OffRate":217.4,"TBidQ":3982486,"TOffQ":6143755,"TickDt":"\/Date(1622451895000)\/"}]
+#*****************#
+2021-05-31 14:34:45.7363|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.25,"LastQty":10214,"TotalQty":57117533,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30897,"BidQty":4253,"BidRate":217.25,"OffQty":6400,"OffRate":217.3,"TBidQ":3978644,"TOffQ":6158413,"TickDt":"\/Date(1622451897000)\/"}]
+#*****************#
+2021-05-31 14:34:46.5366|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":1894,"TotalQty":57119427,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30897,"BidQty":4203,"BidRate":217.25,"OffQty":4556,"OffRate":217.3,"TBidQ":3981394,"TOffQ":6158965,"TickDt":"\/Date(1622451897000)\/"}]
+#*****************#
+2021-05-31 14:34:47.7368|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":5276,"TotalQty":57124703,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30898,"BidQty":1347,"BidRate":217.25,"OffQty":4437,"OffRate":217.3,"TBidQ":3980699,"TOffQ":6159630,"TickDt":"\/Date(1622451898000)\/"}]
+#*****************#
+2021-05-31 14:34:48.7469|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":4487,"TotalQty":57129190,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30899,"BidQty":4535,"BidRate":217.3,"OffQty":4498,"OffRate":217.35,"TBidQ":3987993,"TOffQ":6152523,"TickDt":"\/Date(1622451899000)\/"}]
+#*****************#
+2021-05-31 14:34:49.7408|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":2129,"TotalQty":57131319,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30901,"BidQty":3484,"BidRate":217.3,"OffQty":4040,"OffRate":217.35,"TBidQ":3986782,"TOffQ":6151365,"TickDt":"\/Date(1622451901000)\/"}]
+#*****************#
+2021-05-31 14:34:50.9429|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":2796,"TotalQty":57134115,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30902,"BidQty":985,"BidRate":217.3,"OffQty":6307,"OffRate":217.35,"TBidQ":3984946,"TOffQ":6152735,"TickDt":"\/Date(1622451902000)\/"}]
+#*****************#
+2021-05-31 14:34:51.9514|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":8041,"TotalQty":57142156,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30903,"BidQty":7378,"BidRate":217.3,"OffQty":619,"OffRate":217.35,"TBidQ":3990764,"TOffQ":6152936,"TickDt":"\/Date(1622451903000)\/"}]
+#*****************#
+2021-05-31 14:34:53.1520|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":3063,"TotalQty":57145219,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30904,"BidQty":5667,"BidRate":217.3,"OffQty":567,"OffRate":217.35,"TBidQ":3990339,"TOffQ":6153874,"TickDt":"\/Date(1622451904000)\/"}]
+#*****************#
+2021-05-31 14:34:53.3941|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":28,"TotalQty":57145247,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30904,"BidQty":5867,"BidRate":217.3,"OffQty":539,"OffRate":217.35,"TBidQ":3990439,"TOffQ":6153846,"TickDt":"\/Date(1622451904000)\/"}]
+#*****************#
+2021-05-31 14:34:54.3536|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":511,"TotalQty":57145758,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30905,"BidQty":5742,"BidRate":217.3,"OffQty":115,"OffRate":217.35,"TBidQ":3990179,"TOffQ":6152680,"TickDt":"\/Date(1622451905000)\/"}]
+#*****************#
+2021-05-31 14:34:55.5424|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":4760,"TotalQty":57150518,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30906,"BidQty":2578,"BidRate":217.3,"OffQty":619,"OffRate":217.35,"TBidQ":3986903,"TOffQ":6152787,"TickDt":"\/Date(1622451906000)\/"}]
+#*****************#
+2021-05-31 14:34:56.5445|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":4191,"TotalQty":57154709,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30907,"BidQty":8822,"BidRate":217.3,"OffQty":1043,"OffRate":217.35,"TBidQ":3993145,"TOffQ":6153312,"TickDt":"\/Date(1622451907000)\/"}]
+#*****************#
+2021-05-31 14:34:57.7522|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":2003,"TotalQty":57156712,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30909,"BidQty":8114,"BidRate":217.3,"OffQty":672,"OffRate":217.35,"TBidQ":3993432,"TOffQ":6152991,"TickDt":"\/Date(1622451909000)\/"}]
+#*****************#
+2021-05-31 14:34:58.9530|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":638,"TotalQty":57157350,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30910,"BidQty":7581,"BidRate":217.3,"OffQty":1065,"OffRate":217.35,"TBidQ":3993613,"TOffQ":6151877,"TickDt":"\/Date(1622451910000)\/"}]
+#*****************#
+2021-05-31 14:34:59.9615|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":1506,"TotalQty":57158856,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30911,"BidQty":7190,"BidRate":217.3,"OffQty":619,"OffRate":217.35,"TBidQ":3993694,"TOffQ":6146649,"TickDt":"\/Date(1622451911000)\/"}]
+#*****************#
+2021-05-31 14:35:01.1640|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.3,"LastQty":4273,"TotalQty":57163129,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30912,"BidQty":4379,"BidRate":217.3,"OffQty":32584,"OffRate":217.4,"TBidQ":3991207,"TOffQ":6144621,"TickDt":"\/Date(1622451912000)\/"}]
+#*****************#
+2021-05-31 14:35:01.3572|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":250,"TotalQty":57163379,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30912,"BidQty":4379,"BidRate":217.3,"OffQty":32380,"OffRate":217.4,"TBidQ":3991207,"TOffQ":6144471,"TickDt":"\/Date(1622451912000)\/"}]
+#*****************#
+2021-05-31 14:35:02.3666|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":2329,"TotalQty":57165708,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30913,"BidQty":498,"BidRate":217.35,"OffQty":31884,"OffRate":217.4,"TBidQ":3988970,"TOffQ":6154438,"TickDt":"\/Date(1622451913000)\/"}]
+#*****************#
+2021-05-31 14:35:03.3614|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":331,"TotalQty":57166039,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30914,"BidQty":169,"BidRate":217.35,"OffQty":35082,"OffRate":217.4,"TBidQ":3988691,"TOffQ":6155145,"TickDt":"\/Date(1622451914000)\/"}]
+#*****************#
+2021-05-31 14:35:04.3671|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":113,"TotalQty":57166152,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30915,"BidQty":63,"BidRate":217.35,"OffQty":35079,"OffRate":217.4,"TBidQ":3989132,"TOffQ":6155459,"TickDt":"\/Date(1622451915000)\/"}]
+#*****************#
+2021-05-31 14:35:05.3639|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":413,"TotalQty":57166565,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30916,"BidQty":23,"BidRate":217.35,"OffQty":32295,"OffRate":217.4,"TBidQ":3989046,"TOffQ":6153106,"TickDt":"\/Date(1622451916000)\/"}]
+#*****************#
+2021-05-31 14:35:06.5655|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":209,"TotalQty":57166774,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30917,"BidQty":314,"BidRate":217.35,"OffQty":32295,"OffRate":217.4,"TBidQ":3989322,"TOffQ":6153231,"TickDt":"\/Date(1622451917000)\/"}]
+#*****************#
+2021-05-31 14:35:07.5732|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":349,"TotalQty":57167123,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30918,"BidQty":67,"BidRate":217.35,"OffQty":32193,"OffRate":217.4,"TBidQ":3989065,"TOffQ":6153129,"TickDt":"\/Date(1622451918000)\/"}]
+#*****************#
+2021-05-31 14:35:08.5700|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":4150,"TotalQty":57171273,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30919,"BidQty":400,"BidRate":217.35,"OffQty":28891,"OffRate":217.4,"TBidQ":3985925,"TOffQ":6154827,"TickDt":"\/Date(1622451919000)\/"}]
+#*****************#
+2021-05-31 14:35:09.3694|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":2562,"TotalQty":57173835,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30920,"BidQty":475,"BidRate":217.35,"OffQty":28091,"OffRate":217.4,"TBidQ":3987488,"TOffQ":6154527,"TickDt":"\/Date(1622451920000)\/"}]
+#*****************#
+2021-05-31 14:35:10.5720|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":1083,"TotalQty":57174918,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30921,"BidQty":410,"BidRate":217.35,"OffQty":30468,"OffRate":217.4,"TBidQ":3987387,"TOffQ":6149189,"TickDt":"\/Date(1622451921000)\/"}]
+#*****************#
+2021-05-31 14:35:11.5795|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.35,"LastQty":361,"TotalQty":57175279,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30922,"BidQty":49,"BidRate":217.35,"OffQty":30468,"OffRate":217.4,"TBidQ":3987574,"TOffQ":6149456,"TickDt":"\/Date(1622451922000)\/"}]
+#*****************#
+2021-05-31 14:35:12.5751|INFO|_5paisaAPI.LogRunner|
+WebSocket: Response:[{"Exch":"N","ExchType":"C","Token":1660,"LastRate":217.4,"LastQty":523,"TotalQty":57175802,"High":217.9,"Low":214.4,"OpenRate":215,"PClose":212.9,"AvgRate":216.76,"Time":30923,"BidQty":1765,"BidRate":217.3,"OffQty":30394,"OffRate":217.4,"TBidQ":3986900,"TOffQ":6150588,"TickDt":"\/Date(1622451923000)\/"}]
+#*****************#
+2021-05-31 14:35:56.4489|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 14:36:10.5053|INFO|_5paisaAPI.LogRunner|
+WebSocket: reuquestBody:{"Method":"MarketFeedV3","Operation":"Subscribe","ClientCode":"56565401","MarketFeedData":[{"Exch":"N","ExchType":"C","ScripCode":1660}]}
+#*****************#
+2021-05-31 14:37:35.6145|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 14:40:27.7426|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 14:41:21.0215|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 15:45:52.3024|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 15:47:16.4858|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 15:47:33.9590|INFO|_5paisaAPI.LogRunner|
+WebSocket: reuquestBody:{"Method":"MarketFeedV3","Operation":"Subscribe","ClientCode":"56565401","MarketFeedData":[{"Exch":"N","ExchType":"C","ScripCode":1660}]}
+#*****************#
+2021-05-31 15:50:17.6843|INFO|_5paisaAPI.LogRunner|
+WebSocket started
+#*****************#
+2021-05-31 15:50:38.9312|INFO|_5paisaAPI.LogRunner|
+WebSocket: reuquestBody:{"Method":"MarketFeedV3","Operation":"Subscribe","ClientCode":"56565401","MarketFeedData":[{"Exch":"N","ExchType":"C","ScripCode":1660}]}
+#*****************#
