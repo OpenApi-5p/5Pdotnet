@@ -119,7 +119,7 @@ namespace _5paisaAPI
             if (!string.IsNullOrEmpty(JwtTokencookieres))
             {
                 var JwtTokencookiefinal = JwtTokencookieres.Split('=');
-                string JwtTokenCookieValue = JwtTokencookiefinal[1];
+                string JwtTokenCookieValue = JwtTokencookiefinal[2];
                 AddDataToXML("JwtToken", JwtTokenCookieValue);
             }
 
