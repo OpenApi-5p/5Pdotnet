@@ -1,12 +1,12 @@
 # 5paisa Market Trading APIs
 
-##Project Requirement
+## Project Requirement
 
 1) Visual Studio 2019 (.net core 3.1)
 
 
 
-##Ones project dependency is installed, follow following step to run the program
+## Ones project dependency is installed, follow following step to run the program
 
 1) run the project
 this will run in (https://localhost:44361) portal
@@ -19,7 +19,7 @@ this will run in (https://localhost:44361) portal
 
 
 
-##location of main files
+## location of main files
 
 1) Controllers/FivepaisaAPIController.cs -> All API Request
 2) APICredentials.json -> API Json model
@@ -31,6 +31,6 @@ this will run in (https://localhost:44361) portal
 8) Response.cs -> Response model
 9) WebsocketServer.cs -> Websocket method
 
-##Websocket
+## Websocket
 
 websocket response wll be found in the output window of the visual studio
